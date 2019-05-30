@@ -1,0 +1,57 @@
+.btn {
+    margin-top:20px;
+}
+label {
+    margin-top: 10px;
+}
+
+.form-control {
+    margin-top:20px;
+   
+    
+}
+
+.one_a {
+    color:black;
+    text-align: center;
+}
+
+a:hover,a {
+    text-decoration: none;
+}
+.navbar {
+    text-align: center;
+    
+
+}
+.navbar a{
+    margin: 20px;
+    font-size: 40px;
+    color: black;
+    font-family: sans-serif;
+}
+.navbar a:hover {
+    color: red;
+}
+button {
+    background-color:black !important;
+    color: white !important;
+}
+.name__post {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.postik {
+    border: 2px solid black;
+    margin: 30px;
+}
+.postik:hover {
+    background-color: aliceblue;
+}
+.table {
+    font-size: 22px;
+}
+span {
+    cursor: pointer;
+}
